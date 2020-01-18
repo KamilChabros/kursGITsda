@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Zmiana w plik. Nowe zmiany.
 Dodanie nowej funkcjonalności. ;)
-=======
->>>>>>> parent of dd0155c... Zmiana w pliku txt.
-=======
->>>>>>> parent of dd0155c... Zmiana w pliku txt.
