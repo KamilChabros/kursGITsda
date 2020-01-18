@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 
 Zmiana w plik. Nowe zmiany.
 Dodanie nowej funkcjonalności. ;)
-=======
-Zmiana w plik.
->>>>>>> parent of 46bfc55... Zmiana pliku na nowszą wersję
