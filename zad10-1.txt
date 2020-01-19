@@ -1,0 +1,1 @@
+Dodaj nowej funkcjonalności do pliku zad10-1.txt
