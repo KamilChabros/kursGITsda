@@ -1,2 +1,4 @@
 Nowa linijka kodu.
 Kod zmodyfikowany na gałęzi branch-conflict
+Modyfikacja linijki kodu dla brnach-1-test.txt.
+Połączono dwie gałęzie z rozwiązaniem konfliktu.
