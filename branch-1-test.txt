@@ -1,1 +1,2 @@
 Nowa linijka kodu.
+Kod zmodyfikowany na gałęzi branch-conflict
