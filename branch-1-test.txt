@@ -1,1 +1,2 @@
 Nowa linijka kodu.
+Modyfikacja linijki kodu dla brnach-1-test.txt.
