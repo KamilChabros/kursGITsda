@@ -1,1 +1,2 @@
 Dodanie nwoej funkcjonalności do pliku.
+Dodanie nowej funkcjonalności dla zad10.txt na branchu master.
